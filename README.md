@@ -1,5 +1,11 @@
 # Todogotchi
 ---
+
+## Desktop Version
+![Desktop Demo](./client/src/images/background/TODOgotchi.gif)
+
+## mobile Demo
+![iOs Demo](./client/src/images/background/iphonetest.mov)
 ### Description / Requirements
 
 This productivity app integrates a virtual pet to help motivate users to complete their todos. Complete todos, earn energy, and keep your pet happy!
